@@ -46,8 +46,7 @@ async def help_message_f(client, message):
 /status - Show all download status.
 /cancel - cancel upload:reply to your sent link.
 /log - get log file.
-/help - to see this msg.
-⚡ Universal Fast Mirror⚡""", disable_web_page_preview=True)
+/help - to see this msg.""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
