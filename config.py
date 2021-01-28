@@ -3,8 +3,8 @@ from tobrot.sample_config import Config
 
 class Config(Config):
 	TG_BOT_TOKEN= "141234:1A8B3hV2leKOE6waNwo"
-	APP_ID = 7284610
-	API_HASH = "52916hf8476hgg772ksbxo72972a938"
-	OWNER_ID = 1845927413 #ID of bot owner
-	AUTH_CHANNEL = [-1001339069584]
+	APP_ID = 2055448
+	API_HASH = "d2d0670acbd360a8ab5fe29edda36ec1"
+	OWNER_ID = 1594809109 #ID of bot owner
+	AUTH_CHANNEL = [-1001158356814]
 	
